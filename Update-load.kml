@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <NetworkLink>
+    <name>Update</name>
+    <Link>
+      <!-- <href>http://code.google.com/apis/kml/documentation/NetworkLinkControl-Update.kml</href> -->
+	  <href>https://sebasma.github.io/doublediamond/NetworkLinkControl-Update.kml</href>
+    </Link>
+  </NetworkLink>
+</kml>

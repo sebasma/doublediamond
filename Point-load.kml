@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <NetworkLink>
+    <visibility>1</visibility>
+    <name>Point-load.kml</name>
+    <Link>
+     <!-- <href>http://code.google.com/apis/kml/documentation/Point.kml</href>  -->
+	 <href>https://sebasma.github.io/doublediamond/Point.kml</href>
+    </Link>
+  </NetworkLink>
+</kml>
