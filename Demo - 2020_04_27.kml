@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Demo - 2020_04_27</name>
+	<open>1</open>
+	<NetworkLink>
+		<name>Menu Network Link</name>
+		<Link>
+			<href>Menu.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Branding Network Link</name>
+		<Link>
+			<href>Branding.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>dialogs Network Link</name>
+		<visibility>0</visibility>
+		<Link>
+			<href>dialogs.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Color Districts Network Link</name>
+		<visibility>0</visibility>
+		<Link>
+			<href>Color Overlays.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>4 Districts Network Link</name>
+		<Link>
+			<href>States.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Districts Network Link</name>
+		<visibility>0</visibility>
+		<Link>
+			<href>Congressional Districts.kmz</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>L3Harris Network Link</name>
+		<visibility>0</visibility>
+		<Link>
+			<href>L3Harris.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Satellites Network Link</name>
+		<visibility>0</visibility>
+		<Link>
+			<href>Satellites.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>splash network link</name>
+		<Link>
+			<href>/Users/jmatthewsebastian/Downloads/doublediamond-master/Splash.kmz</href>
+		</Link>
+	</NetworkLink>
+</Folder>
+</kml>
